@@ -10,5 +10,5 @@
     "prisma.prisma",
     "graphql.vscode-graphql"
   ],
-  "unwantedRecommendations": []
+  "unwantedRecommendations": [],
 }
